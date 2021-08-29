@@ -1,2 +1,2 @@
-# Flying_Object_Classifier
+# Flying Object Classifier
 Sages_Final_Project
